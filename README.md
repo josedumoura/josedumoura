@@ -1,9 +1,8 @@
-## Opa,  me chamo José Eduardo👋
+## Hello World, I'm José Eduardo👋
 
-
-
-- 🔭 Hoje trabalho como estagiário back-end
-- 🌱 Estudando C++, Delphi e Python
+- 🔭 I work as a back-end developer.
+- 🌱 Learning C++, Delphi and Python.
+- 🎯 Focused on learning everything about new technologies.
 
 <div>
   <a href="https://github.com/josedumoura">
@@ -33,10 +32,7 @@
  
  ![Snake animation](https://github.com/josedumoura/josedumoura/blob/output/github-contribution-grid-snake.svg)
     
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="josedumoura" align="right"/>    
 </div>
-  
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="josedumoura" /> 
-  </div>
-  
+
 
