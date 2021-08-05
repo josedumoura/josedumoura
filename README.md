@@ -3,6 +3,7 @@
 - 🔭 I work as a back-end developer.
 - 🌱 Learning C++, Delphi and Python.
 - 🎯 Focused on learning everything about new technologies.
+- 🎓 Student at Universidade Federal de Viçosa
 
 <div>
   <a href="https://github.com/josedumoura">
