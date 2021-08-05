@@ -32,7 +32,7 @@
  
  ![Snake animation](https://github.com/josedumoura/josedumoura/blob/output/github-contribution-grid-snake.svg)
     
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="josedumoura" align="right"/>    
+  <img src="https://komarev.com/ghpvc/?username=josedumoura&color=green" alt="josedumoura" align="right"/>    
 </div>
 
 
